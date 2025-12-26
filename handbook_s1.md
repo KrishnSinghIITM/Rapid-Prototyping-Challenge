@@ -28,7 +28,10 @@
 | | Green Leg | **GPIO 16** | Status Indicator |
 | | Red Leg | **GPIO 17** | Status Indicator |
 
-!(path/to/your/diagram.png)
+### Wokwi File
+[View Project on Wokwi](https://wokwi.com/projects/451392727498101761)
+<img width="984" height="553" alt="image" src="https://github.com/user-attachments/assets/bf160dd5-0b45-4a3e-a464-ef1f00617be2" />
+
 
 
 
