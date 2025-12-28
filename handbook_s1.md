@@ -29,7 +29,7 @@
 | | Red Leg | **GPIO 17** | Status Indicator |
 
 ### Wokwi File
-[View Project on Wokwi](https://wokwi.com/projects/451392727498101761)
+[View Project on Wokwi](https://wokwi.com/projects/451427565302923265)
 <img width="984" height="553" alt="image" src="https://github.com/user-attachments/assets/bf160dd5-0b45-4a3e-a464-ef1f00617be2" />
 
 
