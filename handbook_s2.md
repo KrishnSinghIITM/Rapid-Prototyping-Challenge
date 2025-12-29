@@ -64,14 +64,15 @@ Follow these rules to ensure your board works and wins the challenge:
 
 
 
+![Add a subheading](https://github.com/user-attachments/assets/d9e2aeee-0f23-48ae-88d8-e344585eb520)
 
 
 #### **6. Resources**
 
-* 🔗 **Session Recording:** [Link to be added]
-* 📂 **EasyEDA Project File:** [Link to be added]
-* 📘 **PCB Design Guidebook (PDF):** [Link to be added]
+* 🔗 **Session Recording:** [Click Here](https://github.com/KrishnSinghIITM/Rapid-Prototyping-Challenge/edit/main/handbook_s2.md)
+* 📂 **EasyEDA Project File:** [Click Here](https://drive.google.com/file/d/1YIevmfUz6BhIz2Wu6igIt0SyF6zRyZua/view?usp=drive_link)
+* 📘 **PCB Design Guidebook (PDF):** [Click Here](https://github.com/KrishnSinghIITM/Rapid-Prototyping-Challenge/blob/main/PCB%20Design%20Guide%20-%20v1.pdf)
+
 
 ---
-
 ### **Credits:** Rishab Dhama, Krishn Singh
