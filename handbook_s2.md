@@ -69,8 +69,8 @@ Follow these rules to ensure your board works and wins the challenge:
 
 #### **6. Resources**
 
-* 🔗 **Session Recording:** [Click Here](https://github.com/KrishnSinghIITM/Rapid-Prototyping-Challenge/edit/main/handbook_s2.md)
-* 📂 **EasyEDA Project File:** [Click Here](https://drive.google.com/file/d/1YIevmfUz6BhIz2Wu6igIt0SyF6zRyZua/view?usp=drive_link)
+* 🔗 **Session Recording:** [Click Here](https://drive.google.com/file/d/1YIevmfUz6BhIz2Wu6igIt0SyF6zRyZua/view?usp=drive_link)
+* 📂 **EasyEDA Project File:** [Download and open it in the EasyEDA directly](https://github.com/KrishnSinghIITM/Rapid-Prototyping-Challenge/blob/main/rpc_s2_pcb.json)
 * 📘 **PCB Design Guidebook (PDF):** [Click Here](https://github.com/KrishnSinghIITM/Rapid-Prototyping-Challenge/blob/main/PCB%20Design%20Guide%20-%20v1.pdf)
 
 
